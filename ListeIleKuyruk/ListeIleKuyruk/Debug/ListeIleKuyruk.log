@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\pc\source\repos\ListeIleKuyruk\ListeIleKuyruk\Kaynak.cpp(43): error C4700: başlatılmamış yerel değişken 'Kuyruk' kullanıldı
+C:\Users\pc\source\repos\ListeIleKuyruk\ListeIleKuyruk\Kaynak.cpp(11): error C4700: başlatılmamış yerel değişken 'geciciPtr' kullanıldı
